@@ -1,0 +1,330 @@
+body{
+    padding: 40px;
+}
+
+.resume{
+    width: 1000px;
+    display: flex;
+}
+
+img{
+    width: 359px;
+    height: 448px;
+    margin-bottom: -91px;
+}
+
+.designation{
+    color: black;
+    background-color: #FEBE10;
+    border-color: #FEBE10;
+    box-shadow: none;
+    width: 62%;
+    text-align: center;
+    font-size: 1.7em;
+    margin-left: 3.5cap;
+    margin-top: 4cap;
+    position: relative;
+}
+
+.education1{
+    color: white;
+    font-size: 1.5em;
+    margin-left: 4cap;
+    padding-top: 3cap;
+}
+
+.education2{
+    color: white;
+    font-size: 1em;
+    margin-left: 6cap;
+}
+
+.education3{
+    color: white;
+    font-size: 1em;
+    margin-left: 6cap;
+}
+
+.education4{
+    color: white;
+    font-size: 1em;
+    margin-left: 6cap;
+    padding-bottom: 2cap;
+}
+
+.blackbg{
+    background-color: black;
+    width: 34cap;
+    height: 33cap;
+    margin-top: -45px;
+}
+
+.greybg{
+    background-color: rgb(227 227 227);
+    width: 34cap;
+    height: 52cap;
+    margin-top: -25px;
+}
+
+.skill1{
+    color: black;
+    font-size: 1.5em;
+    margin-left: 3cap;
+    padding-bottom: 0cap;
+    padding-top: 1cap;
+    margin-top: 1cap;
+}
+
+.skill2{
+    color: black;
+    font-size: 1.2em;
+    margin-left: 4cap;
+    padding-bottom: 0cap;
+    padding-top: 1cap;
+    margin-top: 0cap;
+}
+
+.hr1{
+    width: 15%;
+    margin-left: 18%;
+    border: 1px solid #FEBE10;
+}
+
+.hr2{
+    width: 7%;
+    margin-left: 2%;
+    border: 2px solid #FEBE10;
+}
+
+.expertise_info_bar1{
+    margin-top: -8%;
+    width: 151px;
+    height: 5px;
+    margin-left: 181px;
+    border: none;
+    background-color: black;
+}
+
+.expertise_info_bar11{
+    padding-right: 8%;
+    padding-left: 50%;
+    margin-top: -11%;
+    width: 40px;
+    height: 5px;
+    border: none;
+    background-color: #FEBE10;
+}
+
+.expertise_info_bar2{
+    margin-top: -8%;
+    width: 151px;
+    height: 5px;
+    margin-left: 181px;
+    border: none;
+    background-color: black;
+}
+
+.expertise_info_bar22{
+    padding-right: 8%;
+    padding-left: 50%;
+    margin-top: -11%;
+    width: 17px;
+    height: 5px;
+    border: none;
+    background-color: #FEBE10;
+}
+
+.expertise_info_bar3{
+    margin-top: -8%;
+    width: 151px;
+    height: 5px;
+    margin-left: 181px;
+    border: none;
+    background-color: black;
+}
+
+.expertise_info_bar33{
+    padding-right: 8%;
+    padding-left: 50%;
+    margin-top: -11%;
+    width: 34px;
+    height: 5px;
+    border: none;
+    background-color: #FEBE10;
+}
+
+.expertise_info_bar4{
+    margin-top: -8%;
+    width: 151px;
+    height: 5px;
+    margin-left: 181px;
+    border: none;
+    background-color: black;
+}
+
+.expertise_info_bar44{
+    padding-right: 8%;
+    padding-left: 50%;
+    margin-top: -11%;
+    width: 15px;
+    height: 5px;
+    border: none;
+    background-color: #FEBE10;
+}
+
+.expertise_info_bar5{
+    margin-top: -8%;
+    width: 151px;
+    height: 5px;
+    margin-left: 181px;
+    border: none;
+    background-color: black;
+}
+
+.expertise_info_bar55{
+    padding-right: 8%;
+    padding-left: 50%;
+    margin-top: -11%;
+    width: 3px;
+    height: 5px;
+    border: none;
+    background-color: #FEBE10;
+}
+
+.image1 img{
+    padding-top: 45px;
+    width: 74px;
+    height: 252px;
+    margin-bottom: -37px;
+    padding-left: 48px;
+}
+
+.phonearea{
+    margin-top: -229px;
+    margin-left: 14cap;
+}
+
+.phone{
+    color: black;
+    font-size: 1em;
+    margin-left: 0cap;
+    padding-top: 0cap;
+}
+
+.phone1{
+    color: black;
+    font-size: 1em;
+    margin-left: 0cap;
+    padding-bottom: 2cap;
+}
+
+.right_top{
+    background-color: rgb(227 227 227);
+    width: 71cap;
+    height: 42cap;
+    padding-left: 5cap;
+}
+
+.name{
+    font-size: 3em;
+    padding: 2cap 2cap 0cap;
+    margin-left: -1.7cap;
+}
+
+.ui{
+    font-size: 1.5em;
+    padding: 1cap;
+    background-color: #FEBE10;
+    width: 151px;
+    padding: 0cap;
+    margin-left: .8cap;
+    margin-top: 2cap;
+    margin-bottom: 3cap;
+}
+
+.profile{
+    font-size: 1.5em;
+    padding: 1cap;
+}
+
+.para{
+    font-size: 1em;
+    padding: 3cap 2cap 0cap 2cap;
+    margin-left: 0cap;
+}
+
+.we{
+    font-size: 1.5em;
+    padding: 5cap 0cap 0cap 5cap;
+}
+
+.hr3{
+    width: 5%;
+    margin-left: 10%;
+    border: 2px solid #FEBE10;
+}
+
+.enter{
+    font-size: 1em;
+    padding: 3cap 2cap 1cap 2cap;
+    margin-left: 5.5cap;
+}
+
+.present{
+    font-size: 1em;
+    padding: 1cap 2cap 0cap 2cap;
+    margin-left: 7.5cap;
+    background-color: #FEBE10;
+    width: 7.5cap;
+    text-align: center;
+}
+
+.company{
+    font-size: 1em;
+    padding: 1cap 2cap 0cap 2cap;
+    margin-left: 19.5cap;
+    margin-top: -2.5cap;
+}
+
+.lorem{
+    font-size: 1em;
+    padding: 3cap 2cap 0cap 2cap;
+    margin-left: 5.5cap;
+}
+
+.glenin{
+    font-size: 1em;
+    margin-left: 7.5cap;
+    padding: 1cap 0cap 0.5cap
+}
+
+.glenin1{
+    font-size: 1em;
+    margin-left: 7.5cap;
+    padding: 1cap 0cap 0.5cap;
+}
+
+.jen{
+    font-size: 1em;
+    margin-left: 36cap;
+    margin-top: -10cap;
+    padding: 1cap 0cap 0.5cap
+}
+
+.jen1{
+    font-size: 1em;
+    margin-left: 36cap;
+    padding: 1cap 0cap 0.5cap;
+}
+
+.image3 img{
+    width: 293px;
+    height: 57px;
+    margin-bottom: -41px;
+    margin-left: 66px;
+}
+
+.int{
+    margin-top: 38px;
+    margin-left: 77px;
+}
